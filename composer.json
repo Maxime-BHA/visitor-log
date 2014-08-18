@@ -1,6 +1,6 @@
 {
-    "name": "jones/visitor-log",
-    "description": "A package for Laravel 4 to log all visitors",
+    "name": "robotrock/visitor-log",
+    "description": "JN-Jones Visitor component fixed for Laravel 4.2",
 	"keywords": [
 		"laravel",
 		"visitor",
